@@ -1,7 +1,7 @@
 package prueba;
 import java.util.Scanner;
 
-//Cambio del alumno 2 (Adrian Gomez cambiocambio)
+//Cambio del alumno 2 (Adrian Gomez cambiocambiocambio1cambio1)
 //Cambio del alumno 1 (Adrian Gomez Garlito)
 
 public class Ejercicio1 {
