@@ -1,6 +1,8 @@
 package prueba;
 import java.util.Scanner;
 
+//Cambio del alumno 2 (Adrian Gomez)
+
 public class Ejercicio1 {
 		
 	// Constantes
